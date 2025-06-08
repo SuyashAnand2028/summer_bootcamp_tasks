@@ -1,6 +1,6 @@
 # 🧠 Web Development Practice – HTML & CSS Tasks
 
-This repository contains my weekly practice tasks for mastering the fundamentals of **HTML** and **CSS**. It includes standalone files for HTML-only work, CSS styling practice, and a fully combined personal mini-portfolio.
+This repository contains my weekly practice tasks in my web dev summer bootcamp for mastering the fundamentals of **HTML** and **CSS**. It includes standalone files for HTML-only work, CSS styling practice, and a fully combined personal mini-portfolio.
 
 ---
 
